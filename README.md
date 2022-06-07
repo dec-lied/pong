@@ -8,7 +8,7 @@
 git clone https://github.com/dec-lied/pong.git
 ``` 
 
-<p> to download the repository. You can do any of the following to run the program: </p>
+<p> to download the repository. The main code is in the pong/ directory with the includes being in the include/ directory. You can do any of the following to run the program: </p>
 <ol>
   <li> Navigate to the build/ directory and run the executable corresponding to your pc architecture. </li>
   <li> Build it from the source yourself by opening pong.sln and selecting Release as well as x64 or x86 according to your pc architecture then build.
