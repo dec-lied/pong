@@ -13,7 +13,7 @@ git clone https://github.com/dec-lied/pong.git
   <li> Navigate to the build/ directory and run the executable corresponding to your pc architecture. </li>
   <li> Build it from the source yourself by opening pong.sln and selecting Release as well as x64 or x86 according to your pc architecture then build.
        If you decide to do this, be sure to <b> <ins> make a copy of the scoreImages folder into the same directory as the binary pong.exe </ins> </b> </li>
-  <li> Download the release according respective to your architecture from the Releases tab on this page (https://github.com/dec-lied/pong). </li>
+  <li> Download the release according respective to your architecture from the Releases tab on this page ([https://github.com/dec-lied/pong](https://github.com/dec-lied/pong/releases/tag/V1.0)). </li>
 </ol>
 
 <h1> How to play </h1>
