@@ -27,6 +27,6 @@ git clone https://github.com/dec-lied/pong.git
 </ul>
 
 <h1> Screenshots of the game </h1>
-![image](https://user-images.githubusercontent.com/103293120/172282985-94f24456-5a61-44a3-84a8-4dd9c9adb7db.png)
-![image](https://user-images.githubusercontent.com/103293120/172283016-725706ea-fb33-4c3c-89af-ca4faaead6a5.png)
-![image](https://user-images.githubusercontent.com/103293120/172283087-6cf046e4-f309-4fa9-b285-36e9de54a709.png)
+![midgame](https://user-images.githubusercontent.com/103293120/172284466-bc9f57a2-86d9-49dd-b0ff-ff622b2cd51c.jpg)
+![rwins](https://user-images.githubusercontent.com/103293120/172284474-d513c8ec-1993-46cf-aa40-6bf4fcf70a5b.jpg)
+![reset](https://user-images.githubusercontent.com/103293120/172284480-cbba7a13-7955-4720-9d42-2dade1912da5.jpg)
