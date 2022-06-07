@@ -25,3 +25,8 @@ git clone https://github.com/dec-lied/pong.git
   <li> After each point scored, the ball will be sent to the loser of the round in the same direction that the ball was previously traveling in after 2 seconds. </li>
   <li> The first person to score after reaching 5 points wins, and the game will reset. </li>
 </ul>
+
+<h1> Screenshots of the game </h1>
+![image](https://user-images.githubusercontent.com/103293120/172282985-94f24456-5a61-44a3-84a8-4dd9c9adb7db.png)
+![image](https://user-images.githubusercontent.com/103293120/172283016-725706ea-fb33-4c3c-89af-ca4faaead6a5.png)
+![image](https://user-images.githubusercontent.com/103293120/172283087-6cf046e4-f309-4fa9-b285-36e9de54a709.png)
