@@ -5,7 +5,7 @@
 #include <stb/stb_image.h>
 
 #include <iostream>
-#include <format>
+#include <string>
 
 #define ROUNDRESTTIME 2.0f
 #define GAMERESTTIME  5.0f
@@ -71,7 +71,7 @@ public:
 				this->lScore++;
 
 				int width, height, nrChannels;
-				unsigned char* data = stbi_load(std::format("scoreImages/{}.png", this->lScore).c_str(), &width, &height, &nrChannels, 0);
+				unsigned char* data = stbi_load((std::string("scoreImages/") + std::to_string(this->lScore) + std::string(".png")).c_str(), &width, &height, &nrChannels, 0);
 
 				if (!data)
 					std::cout << "failed to load image" << std::endl;
@@ -86,7 +86,7 @@ public:
 				this->rScore++;
 
 				int width, height, nrChannels;
-				unsigned char* data = stbi_load(std::format("scoreImages/{}.png", this->rScore).c_str(), &width, &height, &nrChannels, 0);
+				unsigned char* data = stbi_load((std::string("scoreImages/") + std::to_string(this->rScore) + std::string(".png")).c_str(), &width, &height, &nrChannels, 0);
 
 				if (!data)
 					std::cout << "failed to load image" << std::endl;
